@@ -2,14 +2,14 @@
 
 
 
-- 🔭 loving js,css and Bootstrap
+- 🔭 love coding html, css, javascript and bootstrap
 - 🌱 learning React
 - 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: Coding is like cooking it needs exposure 
+- ⚡ Fun fact: “Talk is cheap. Show me the code.” ― Linus Torvald
 
 
 ---
->An aspiring Front end Web Developer, molded and shaped by Masai School's intensive training program,To obtain a position, where I can effectively utilize my expertise and maximize my skills, knowledge and experience along with the organization’s growth.
+>An aspiring Front End Developer skilled in React, Redux, JavaScript, Jquery, Bootstrap, HTML and CSS, moulded and shaped by Masai School's military style training. Actively ready to join a great team where I can participate for company's growth as well as personal growth.
 ---
 
 ### Connect with me:
