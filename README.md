@@ -3,13 +3,13 @@
 
 
 - 🔭 love coding html, css, javascript and bootstrap
-- 🌱 learning React
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🌱 React Js Developer
+- 🥅 2024 Goals: Contribute to Open Source projects, Learn MERN
 - ⚡ Fun fact: “Talk is cheap. Show me the code.” ― Linus Torvald
 
 
 ---
->An aspiring Front End Developer skilled in React, Redux, JavaScript, Jquery, Bootstrap, HTML and CSS, moulded and shaped by Masai School's military style training. Actively ready to join a great team where I can participate for company's growth as well as personal growth.
+>An aspiring Front End Developer skilled in React Js, Redux, JavaScript, Jquery, Bootstrap, HTML and CSS, moulded and shaped by Masai School's military style training, also has the industry experience in above mentioned technology. Actively ready to join a great team where I can participate for company's growth as well as personal growth.
 ---
 
 ### Connect with me:
